@@ -98,7 +98,7 @@ else:
 	Axak(y+"\n\n\t\tContract Admin For User And Pass")
 	os.system("xdg-open https://facebook.com/mdmuradhasanmedia")
 	
-	os.system("python S-BOOMB.py")
+	os.system("python bomb-sms.py")
 
 x="XAK"
 
@@ -281,7 +281,7 @@ headers20["Content-Type"] = "application/json"
 
 data20 = '{"phone": "0'+number+'"}'
 
-os.system("xdg-open https://youtube.com/@samirteachnical")
+os.system("xdg-open https://facebook.com/mdmuradhasanmedia")
 print (logo)
 print(f"""\n{ran}\033[1;31m                                                               
 \t\033[1;32m                 
