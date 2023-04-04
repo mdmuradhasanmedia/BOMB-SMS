@@ -11,23 +11,20 @@ def Axak(xak):
 
 logo =                                          ("""   
 \033[1;92m
- _______  _______  _______ _________ _______ 
-(  ____ \(  ___  )(       )\__   __/(  ____ )
-| (    \/| (   ) || () () |   ) (   | (    )|
-| (_____ | (___) || || || |   | |   | (____)|
-(_____  )|  ___  || |(_)| |   | |   |     __)
-      ) || (   ) || |   | |   | |   | (\ (   
-/\____) || )   ( || )   ( |___) (___| ) \ \__
-\_______)|/     \||/     \|\_______/|/   \__/
-                                                                                                                                                                            
+          __  ___         __
+        /  |/  /__  ____/ (_)___ _
+       / /|_/ / _ \/ __  / / __ `/
+      / /  / /  __/ /_/ / / /_/ /
+     /_/  /_/\___/\__,_/_/\__,_/
+                                                                                                                                                                                      
 
 \033[1;91m\033[1;41m\033[1;97m              WELCOME TO SMS BOOMBING TOOLS               \033[;0m\033[1;91m\033[1;92m
 
 
 \033[1;32m[-] TOOLS TYPE:\033[1;32m FREE
-\033[1;32m[-] AUTHOR    :\033[1;32m SADMAN SAMIR SNIGDHO 
-\033[1;32m[-] GITHUB    :\033[1;32m SAMIR-CYBER-143
-\033[1;32m[-] FACEBOOK  :\033[1;32m SNIGDHO AFRIDI
+\033[1;32m[-] AUTHOR    :\033[1;32m Md. Murad Hasan Media
+\033[1;32m[-] GITHUB    :\033[1;32m mdmuradhasanmedia 
+\033[1;32m[-] FACEBOOK  :\033[1;32m Md. Murad Hasan Media 
 
 """)
 
@@ -93,13 +90,13 @@ user=str(input(f"\n{g}USERNAME FOR  (INBOX-ME) \n \n{w}USERNAME {r}=>{y} "))
 pas=str(input(f"\n{g}PASSWORD FOR (INBOX ME) \n \n{w}PASSWORD {r}=>{y} "))
 rp= 'SAMIR'
 x = '143'
-if 'SAMIR'==user and '143'==pas:
+if 'MEDIA'==user and 'ATIYA'==pas:
 	Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL JOIN MY FACEBOOK GROUP ")
-	os.system('xdg-open fb://group/1885398221816745?ref=share&mibextid=NSMWBT')
+	os.system('xdg-open https://facebook.com/mdmuradhasanmedia')
 else:
 	Axak(y+"\n\n\t\t      Invalid User Or Pass")
 	Axak(y+"\n\n\t\tContract Admin For User And Pass")
-	os.system("xdg-open https://wa.me/+8801324313100")
+	os.system("xdg-open https://facebook.com/mdmuradhasanmedia")
 	
 	os.system("python S-BOOMB.py")
 
