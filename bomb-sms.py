@@ -11,16 +11,26 @@ def Axak(xak):
 
 logo =                                          ("""   
 \033[1;92m
-  __  __          _ _
- |  \/  |        | (_)
- | \  / | ___  __| |_  __ _
- | |\/| |/ _ \/ _` | |/ _` |
- | |  | |  __/ (_| | | (_| |
- |_|  |_|\___|\__,_|_|\__,_|
+                        .::!!!!!!!:.
+   .!!!:.             .:!!!!!!!!!!!!
+  !!!!!!.          .:!!!!!!!UWWW$$$
+: $$NWX!!:       .:!!!!!XUWW$$$$$$P
+  $$$$$##WX!:   .<!!!!UW$$$$"$$$$$#       
+  ^$$$B$$$$\    $$$$$$$$$$$$$d$$R"
+  "*$bd$$$$    '*$$$$$$$$$$$o+#"
+ 
+ _____________________________________
+|  __  __             _   _           |
+| |$|\/|$|           |$| ($)          |
+| |$\\//$|   ___   __|$|  _   ___ _   |
+| |$|\/|$|  / _ \ /$_`$| |$| /  _`$|  |
+| |$|  |$|  |$__/ |$(_$| |$| |$(_|$|  |
+| |$|  |$|  \$_$| \$_,$| |$| \___,$|  |
+|_____________________________________|
+ 
 
 
-\033[1;91m\033[1;41m\033[1;97m              WELCOME TO SMS BOOMBING TOOLS               \033[;0m\033[1;91m\033[1;92m
-
+\033[1;91m\033[1;41m\033[1;97m              WELCOME TO SMS BOOMBING TOOLS     \033[;0m\033[1;91m\033[1;92m
 
 \033[1;32m[-] TOOLS TYPE:\033[1;32m FREE
 \033[1;32m[-] AUTHOR    :\033[1;32m Md. Murad Hasan Media
@@ -89,8 +99,8 @@ print(logo)
 x="XAK"
 user=str(input(f"\n{g}USERNAME FOR  (INBOX-ME) \n \n{w}USERNAME {r}=>{y} "))
 pas=str(input(f"\n{g}PASSWORD FOR (INBOX ME) \n \n{w}PASSWORD {r}=>{y} "))
-rp= 'SAMIR'
-x = '143'
+rp= 'MEDIA'
+x = 'ATIYA'
 if 'MEDIA'==user and 'ATIYA'==pas:
 	Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL FOLLOW ME IN FACEBOOK ")
 	os.system('xdg-open https://facebook.com/mdmuradhasanmedia')
