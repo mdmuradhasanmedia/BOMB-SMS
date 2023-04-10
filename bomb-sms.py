@@ -10,32 +10,18 @@ def Axak(xak):
 		
 
 logo =                                          ("""   
-\033[1;92m
-                        .::!!!!!!!:.
-   .!!!:.             .:!!!!!!!!!!!!
-  !!!!!!.          .:!!!!!!!UWWW$$$
-  $$NWX!!:       .:!!!!!XUWW$$$$$$P
-  $$$$$##WX!:   .<!!!!UW$$$$"$$$$$#       
-  ^$$$B$$$$\    $$$$$$$$$$$$$d$$R"
-  "*$bd$$$$    '*$$$$$$$$$$$o+#"
- 
- _____________________________________
-|  __  __             _   _           |
-| |$|\/|$|           |$| ($)          |
-| |$\\\//$|   ___   __|$|  _   ___ _   |
-| |$|\/|$|  / _ \ /$_`$| |$| /  _`$|  |
-| |$|  |$|  |$__/ |$(_$| |$| |$(_|$|  |
-| |$|  |$|  \$_$| \$_,$| |$| \___,$|  |
-|_____________________________________|
- 
 
 
-\033[1;91m\033[1;41m\033[1;97m              WELCOME TO SMS BOOMBING TOOLS     \033[;0m\033[1;91m\033[1;92m
 
-\033[1;32m[-] TOOLS TYPE:\033[1;32m FREE
-\033[1;32m[-] AUTHOR    :\033[1;32m Md. Murad Hasan Media
-\033[1;32m[-] GITHUB    :\033[1;32m mdmuradhasanmedia 
-\033[1;32m[-] FACEBOOK  :\033[1;32m Md. Murad Hasan Media 
+\033[1;93m ╔═════════════════[\033[1;32m 𝗔𝗱𝗺𝗶𝗻 𝗜𝗻𝗳𝗼 \033[1;32m]════════════════╗
+ \033[1;93m║     \033[1;96m[✓] CREATED BY\33[0;m   : \033[1;96m 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚\033[1;32m ║
+ \033[1;93m║     \033[1;32m[✓] FACEBOK      : \033[1;34m 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚\033[1;32m ║
+ \033[1;93m║     \033[1;35m[✓] GITHUB       :  \033[1;35mmdmuradhasanmedia    \033[1;32m ║
+ \033[1;93m║     \033[1;36m[✓] TOOL NAME    : \033[1;36m SMS BOMBER       \033[1;32m ║
+ \033[1;93m║     \033[1;36m[✓] TOOL VIRSION :  \033[1;36m1.0                  \033[1;32m ║
+ \033[1;93m║᯽⊱┈──╌❊❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊❊╌──┈⊰᯽⊱⊰᯽⊱┈─╌❊❊╌──┈⊰᯽⊱ \033[1;32m║
+ \033[1;93m║  [\033[1;97m•\033[1;91m]\033[1;32m PLZ SAPPORT ME BRO....                 \033[1;32m  ║
+ \033[1;93m╚═══════════[\033[1;93m 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 \033[1;32m]═══════════╝
 
 """)
 
@@ -100,14 +86,14 @@ x="XAK"
 user=str(input(f"\n{g}USERNAME FOR  (INBOX-ME) \n \n{w}USERNAME {r}=>{y} "))
 pas=str(input(f"\n{g}PASSWORD FOR (INBOX ME) \n \n{w}PASSWORD {r}=>{y} "))
 rp= 'MEDIA'
-x = 'ATIYA'
-if 'MEDIA'==user and 'ATIYA'==pas:
+x = 'INAYAH'
+if 'MEDIA'==user and 'INAYAH'==pas:
 	Axak(g+"\n\n\t\t      LOGIN SUCCESSFUL FOLLOW ME IN FACEBOOK ")
 	os.system('xdg-open https://facebook.com/mdmuradhasanmedia')
 else:
 	Axak(y+"\n\n\t\t      Invalid User Or Pass")
 	Axak(y+"\n\n\t\tContract Admin For User And Pass")
-	os.system("xdg-open https://facebook.com/mdmuradhasanmedia")
+	os.system("xdg-open https://www.facebook.com/profile.php?id=100051985358436")
 	
 	os.system("python bomb-sms.py")
 
@@ -306,45 +292,45 @@ print(f"\t{w}      | {r}    AMOUNT ({g}{amo}{r}){w} |   {r}   TIME       {w}|")
 print(f"\t      {ran}'----------------------------------'")
 for i in range(amo):
 	resp1 = requests.get(url1)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp2 = requests.get(url2,headers=headers2)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥  "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥  "+w+tim)
 	resp3 = requests.post(url3, headers=headers3, data=data3)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp4 = requests.post(url4, headers=headers4, data=data4)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp5 = requests.post(url5, headers=headers5, data=data5)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp6 = requests.post(url6, headers=headers6, data=data6)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp7 = requests.get(url7)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp10 = requests.get(url8,headers=headers8, data=data8)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp11 = requests.get(url9,headers=headers9, data=data9)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp12 = requests.post(url10,headers=headers10, data=data10)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp13 = requests.get(url11,headers=headers11, data=data11)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp14 = requests.post(url12,data=data12)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp8 = requests.post(url13,headers=headers13, data=data13)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp17 = requests.post(url14, headers=headers14, data=data14)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp9 = requests.post(url15, headers=headers15, data=data15)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp19 = requests.post(url16, headers=headers16, data=data16)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp20 = requests.post(url17,data17)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥  "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥  "+w+tim)
 	resp21 = requests.post(url18, headers=headers18, data=data18)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp21 = requests.post(url19, headers=headers19, data=data19)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	resp21 = requests.post(url20, headers=headers20, data=data20)
-	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥MEDIA🔥 "+w+tim)
+	print(f"\n\t\t {ran2}SMS SENT SUCCESFULLY💚  BY 🔥 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥 "+w+tim)
 	
 	
 else: 
